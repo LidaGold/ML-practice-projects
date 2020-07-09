@@ -22,7 +22,8 @@ Supervised - Prediction and                         Classification
 - SVR / SVC
 - Different types of Decision Tree, including Random Forest
 - Naive Baynes
-- Understanding results using Classification Matrix, R2-score and MSE
+- Understanding results using Classification Matrix, R2-score and MSE.
+
 Unsurvervised
 - K-means 
 - To evaluate results: homogeneity_score, completeness_score, v_measure_score
