@@ -8,6 +8,13 @@ As a result, most of the original coding is done by our instructor Dr. Qazi and 
 
 Each project includes data cleaning, analysis and visualization.
 
+Python Libraries used during the course:
+- Pandas
+- Numpy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
 Most projects in this repository is a work in progress since they were introductions to different concepts and allowed me to practice data cleaning and visualizations skills and apply different Machine Learning techniques to build models to be used in prediction and/ or classification. 
 
 When I find new code or shortcuts or new ways of visualizing data that I thought a project will benefit from I come back and make changes.
