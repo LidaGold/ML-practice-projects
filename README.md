@@ -15,6 +15,18 @@ Python Libraries used during the course:
 - Matplotlib
 - Seaborn
 
-Most projects in this repository is a work in progress since they were introductions to different concepts and allowed me to practice data cleaning and visualizations skills and apply different Machine Learning techniques to build models to be used in prediction and/ or classification. 
+Training Machine Learning Model:
+Supervised - Prediction and                         Classification                                 
+- Linear and Polynomial Regression
+- KNN
+- SVR / SVC
+- Different types of Decision Tree, including Random Forest
+- Naive Baynes
+- Understanding results using Classification Matrix, R2-score and MSE
+Unsurvervised
+- K-means 
+- To evaluate results: homogeneity_score, completeness_score, v_measure_score
 
-When I find new code or shortcuts or new ways of visualizing data that I thought a project will benefit from I come back and make changes.
+Most projects in this repository is a work in progress since they were introductions to different concepts and allowed me to practice data cleaning and visualizations skills and apply different Machine Learning techniques to build models to be used in prediction and / or classification. 
+
+I usullay update projects when I come across interesting code or shortcuts or new ways of visualizing data that I thought a project will benefit from I come back and make changes.
